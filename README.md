@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hi there 👋</h1>
+<p>I'm Camilly, a student passionate about Cybersecurity & Development.</p>
 
-<!--
-**camillycy/camillycy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me</h2>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a college project  
+- 🌱 I’m currently learning Java and JavaScript  
+- 💡 Interested in cybersecurity
+- 💻 I also enjoy working with HTML, CSS, and Python 
+- 😄 Pronouns: she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>🛠️ Languages & Technologies </h2>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
