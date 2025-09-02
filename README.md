@@ -9,7 +9,7 @@
 - 💻 Experienced with Kali Linux, Metasploitable, penetration testing basics, and building projects with HTML, CSS, and Python
 
 <h2>Cybersecurity Labs & Projects</h2>
-- 🔗 Check out my labs: https://github.com/camillycy/cybersecurity-labs
+- 🔗 Check out my cybersecurity labs: https://github.com/camillycy/cybersecurity-labs
   
 <h2>🛠️ Languages & Technologies </h2>
 
