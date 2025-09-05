@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on practical cybersecurity labs and college projects
 - 💡 Interested in Threat Analysis, Network Security, and Vulnerability Assessment
-- 💻 Learning Kali Linux, Metasploitable, penetration testing basics, and building projects with HTML, CSS, and Python
+- 💻 Learning Kali Linux, Metasploitable, penetration testing basics, and building projects with HTML, CSS, Javascript and Java! 
 
 <h2>Cybersecurity Labs & Projects</h2>
 - 🔗 Check out my cybersecurity labs: https://github.com/camillycy/cybersecurity-labs
